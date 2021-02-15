@@ -1,6 +1,11 @@
 {
-  'a'      : 'application/octet-stream',
-  'ai'     : 'application/postscript',
-  'aif'    : 'audio/x-aiff',
-  'aifc'   : 'audio/x-aiff'
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
