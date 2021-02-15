@@ -5,15 +5,15 @@
       "title": "hello"
     }
   ],
- "aac": "audio/aac",
-  "abw": "application/x-abiword",
-  "ai": "application/postscript",
-  "arc": "application/octet-stream",
-  "avi": "video/x-msvideo",
-  "azw": "application/vnd.amazon.ebook",
-  "bin": "application/octet-stream",
-  "bz": "application/x-bzip",
-  "bz2": "application/x-bzip2",
-  "csh": "application/x-csh",
-  "css": "text/css"
+ {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
 }
