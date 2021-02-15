@@ -1,4 +1,5 @@
-'a'      : 'application/octet-stream',
+{
+  'a'      : 'application/octet-stream',
   'ai'     : 'application/postscript',
   'aif'    : 'audio/x-aiff',
   'aifc'   : 'audio/x-aiff',
@@ -112,3 +113,4 @@
   'xsl'    : 'application/xml',
   'xwd'    : 'image/x-xwindowdump',
   'zip'    : 'application/zip'
+}
